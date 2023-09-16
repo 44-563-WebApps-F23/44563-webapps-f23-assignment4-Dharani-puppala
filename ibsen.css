@@ -25,3 +25,23 @@
 .nora{
     color: chocolate;
 }
+table{
+    margin: 2px;
+    border-spacing: 1.4em 0.8em;
+    border-collapse: collapse;
+    border:2px solid green;
+    text-align: left;
+    padding: 0.5em;
+
+}
+tr:nth-child(odd)  {
+    background-color: rgb(116, 225, 247);
+}
+td{
+    width: 1.5em;
+    height: 2em;
+    
+    text-align: left;
+    vertical-align: middle ;
+
+}
