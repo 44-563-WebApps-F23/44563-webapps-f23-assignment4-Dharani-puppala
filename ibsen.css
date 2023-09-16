@@ -1,0 +1,27 @@
+.speech{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: black;
+
+}
+.name{
+    
+     
+
+}
+.direction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    background-color: lightcyan;
+}
+.direction:hover{
+    color: brown;
+     background-color: antiquewhite;
+}
+.HELMER{
+    color: burlywood;
+}
+.NORA{
+    color: blanchedalmond;
+}
