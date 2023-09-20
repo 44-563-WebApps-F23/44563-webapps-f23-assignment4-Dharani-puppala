@@ -7,11 +7,9 @@
 .name:hover{
     color: rgb(179, 20, 20);
     text-shadow: 5px 4px 3px burlywood;
+    filter: blur(0.6px);
     border:  2px solid rgb(10, 104, 76);
     padding: 2px;
-    
-     
-
 }
 .direction{
     font-family: Arial, Helvetica, sans-serif;
@@ -48,4 +46,19 @@ td{
     text-align: left;
     vertical-align: middle ;
 
+}
+.navbar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ef8282;
+    color: #1b0606;
+    text-align: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #230b0b;
+    margin: 0 15px;
 }
